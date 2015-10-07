@@ -11,6 +11,7 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    padding-top: 100px;
 }
 
 h1,
@@ -182,12 +183,12 @@ footer p {
         font-size: 1.25em;
     }
 }
-
+/*
 .teampic {
     height: 450px;
     width: 750px;
 }
-
+*/
 @media screen and (min-width:1200px) {
     .box:after {
         content: '';
