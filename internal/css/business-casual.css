@@ -6,11 +6,7 @@
 
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
-    background: url('../img/bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+    background: url('../img/bg.jpg') repeat;
     padding-top: 100px;
 }
 
@@ -197,3 +193,6 @@ footer p {
     }
 }
 
+.tcontent {
+    color: white;
+}
